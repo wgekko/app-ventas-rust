@@ -1,0 +1,11 @@
+[package]
+name = "ventas_app"
+version = "0.1.0"
+edition = "2021"
+
+[lib]
+name = "ventas_app"
+crate-type = ["cdylib"]
+
+[dependencies]
+pyo3 = { version = "0.20.0", features = ["extension-module"] }
