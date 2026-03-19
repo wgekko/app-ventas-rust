@@ -11,3 +11,7 @@ se ejecute el motor de Rust
 y luego escribir en la terminal
 streamlit run app.py ## para que se ejecute o corra la app
 
+
+video demo
+https://github.com/user-attachments/assets/1ce75415-0ee3-4219-ad48-8ff5ef5d0c44
+
